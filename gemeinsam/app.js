@@ -83,7 +83,7 @@
   function uebersicht() {
     const t = heute();
     let hinweis = "";
-    if (VORSCHAU) hinweis = "Vorschau: Alle Türchen lassen sich öffnen.";
+    if (VORSCHAU) hinweis = ""; // steht schon im Banner
     else if (t.getMonth() < 11 && t.getMonth() > 0) {
       const d = tageBis(1);
       hinweis = d === 1 ? "Morgen geht es los!" : `Noch ${d} Tage, dann öffnet sich das erste Türchen.`;
@@ -107,7 +107,7 @@
         <p class="kicker">${esc(K.untertitel)}</p>
         <h1 tabindex="-1">${esc(K.titel)}</h1>
         ${K.idee ? `<p class="idee">Nach einer Idee von ${esc(K.idee)}</p>` : ""}
-        <p class="hinweis">${esc(hinweis)}</p>
+        ${hinweis ? `<p class="hinweis">${esc(hinweis)}</p>` : ""}
       </header>
       <div class="raster">${tueren}</div>`;
   }
