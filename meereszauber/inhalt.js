@@ -3,6 +3,7 @@ window.KALENDER = {
   id: "meereszauber",
   titel: "Meereszauber",
   untertitel: "Adventskalender · Rekorde aus dem Ozean",
+  idee: "Carola",
   farben: ["#0e7c86", "#1565a8", "#0f8f6e", "#e07a5f", "#3d5a98", "#178ca4", "#c8553d", "#2a9d8f"],
   deko: ["🐚", "⭐", "🫧", "🌊", "🐠", "❄️", "🪸"],
   tueren: [

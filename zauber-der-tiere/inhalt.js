@@ -4,6 +4,7 @@ window.KALENDER = {
   id: "zauber-der-tiere",
   titel: "Zauber der Tiere",
   untertitel: "Adventskalender · Tierwesen & Fabelwesen",
+  idee: "Maria",
   farben: ["#c0392b", "#d35400", "#16a085", "#8e44ad", "#2471a3", "#b7950b", "#1e8449", "#a93226", "#6c3483"],
   deko: ["⭐", "✨", "🌙", "❄️", "🎄", "🐾", "🪶"],
   tueren: [

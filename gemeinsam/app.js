@@ -106,6 +106,7 @@
     return `<header class="kopf">
         <p class="kicker">${esc(K.untertitel)}</p>
         <h1 tabindex="-1">${esc(K.titel)}</h1>
+        ${K.idee ? `<p class="idee">Idee von ${esc(K.idee)}</p>` : ""}
         <p class="hinweis">${esc(hinweis)}</p>
       </header>
       <div class="raster">${tueren}</div>`;

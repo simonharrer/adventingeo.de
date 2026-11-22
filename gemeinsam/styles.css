@@ -144,3 +144,4 @@ td img { width: 64px; height: 48px; object-fit: cover; border-radius: 6px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 .fuss a.impressum { font-size: 10px; opacity: .5; }
+.idee { margin: 8px 0 0; color: var(--akzent); font-weight: 700; font-size: 17px; }
