@@ -17,7 +17,7 @@ URHEBER = {
     "netzpython": "Mariluna",
     "qilin": "Shen Du zugeschrieben, um 1414 (Philadelphia Museum of Art)",
     "wanderfalke": "Georges Lignier",
-    "roch": "aus „The Story of Marco Polo“, 1899 (Internet Archive Book Images)",
+    "roch": "Edmund Dulac: Sinbad the Sailor, 1914",
     "wolpertinger": "Rainer Zenz (nach Albrecht Dürers „Feldhase“)",
     "kitsune": "Utagawa Hiroshige, 1857 (The Metropolitan Museum of Art)",
     "greif": "Friedrich Justin Bertuch: Bilderbuch für Kinder, um 1800",
@@ -40,8 +40,7 @@ URHEBER = {
     "albatros": "JJ Harrison",
     "faecherfisch": "Citron",
 }
-LIZENZ = {"Public domain": "Gemeinfrei (Public Domain)", "CC0": "CC0 (gemeinfrei)",
-          "No restrictions": "Keine bekannten Urheberrechtsbeschränkungen (Flickr Commons)"}
+LIZENZ = {"Public domain": "Gemeinfrei (Public Domain)", "CC0": "CC0 (gemeinfrei)"}
 
 md = ["# Bildnachweise", "",
       "Alle Bilder stammen von Wikimedia Commons. Für jedes Bild sind hier Urheber, Lizenz und die Commons-Seite angegeben,",

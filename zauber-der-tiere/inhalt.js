@@ -102,10 +102,10 @@ window.KALENDER = {
     },
     {
       n: 14, bild: "roch", name: "Vogel Roch", art: "fabel",
-      alt: "Alte Zeichnung: ein riesiger Vogel trägt Elefanten in seinen Krallen.",
+      alt: "Gemälde: ein riesiger bunter Vogel fliegt über Wolken und Berge, an seinem Bein hängt ein kleiner Mann.",
       text: "Der Vogel Roch ist riesengroß – so groß, dass er mit seinen Krallen Elefanten hochheben kann! Von ihm erzählen die Märchen aus Tausendundeiner Nacht.",
-      sage: "Sindbad der Seefahrer fand auf einer Insel einmal ein Ei, so groß wie eine Kuppel. Es war ein Ei vom Vogel Roch! Auch der Reisende Marco Polo schrieb vor über 700 Jahren von diesem Riesenvogel.",
-      mitmach: "Zeichne ein Riesen-Ei. Was könnte wohl daraus schlüpfen?",
+      sage: "Sindbad der Seefahrer fand auf einer einsamen Insel ein Ei, so groß wie eine Kuppel – das Ei vom Vogel Roch! Um von der Insel wegzukommen, band er sich mit seinem Turban am Bein des Riesenvogels fest. Auf dem Bild siehst du, wie der Roch ihn über Wolken und Berge davonträgt.",
+      mitmach: "Findest du Sindbad auf dem Bild? Wohin würdest du dich vom Vogel Roch tragen lassen?",
     },
     {
       n: 15, bild: "netzpython", name: "Netzpython", art: "echt",

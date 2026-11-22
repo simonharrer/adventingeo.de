@@ -105,11 +105,11 @@ window.NACHWEISE = {
   "bearbeitung": ""
  },
  "roch": {
-  "datei": "Datei:The story of Marco Polo (1899) (14577315919) (cropped).jpg",
-  "urheber": "aus „The Story of Marco Polo“, 1899 (Internet Archive Book Images)",
-  "lizenz": "Keine bekannten Urheberrechtsbeschränkungen (Flickr Commons)",
-  "lizenzUrl": "https://www.flickr.com/commons/usage/",
-  "quelle": "https://commons.wikimedia.org/wiki/File:The_story_of_Marco_Polo_(1899)_(14577315919)_(cropped).jpg",
+  "datei": "Datei:Sinbad the sailor & other stories from the Arabian nights - Dulac color plate facing page 024.jpg",
+  "urheber": "Edmund Dulac: Sinbad the Sailor, 1914",
+  "lizenz": "Gemeinfrei (Public Domain)",
+  "lizenzUrl": "https://commons.wikimedia.org/wiki/File:Sinbad_the_sailor_%26_other_stories_from_the_Arabian_nights_-_Dulac_color_plate_facing_page_024.jpg",
+  "quelle": "https://commons.wikimedia.org/wiki/File:Sinbad_the_sailor_%26_other_stories_from_the_Arabian_nights_-_Dulac_color_plate_facing_page_024.jpg",
   "bearbeitung": ""
  },
  "netzpython": {
