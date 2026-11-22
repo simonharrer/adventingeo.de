@@ -31,3 +31,8 @@ Bilder ändern: `tools/images.json` anpassen, das alte Bild in `<kalender>/bilde
 python3 tools/fetch_final.py   # lädt fehlende Bilder und die Lizenzdaten von Commons
 python3 tools/build.py         # erzeugt Vorschaubilder, nachweise.js und BILDNACHWEISE.md
 ```
+
+## Vorschaubilder für soziale Medien
+
+`social.png` (Startseite) und `<kalender>/social.png` (1200 × 630) zeichnet `python3 tools/social.py`.
+Schrift: Nunito, SIL Open Font License (`tools/fonts/OFL.txt`).
