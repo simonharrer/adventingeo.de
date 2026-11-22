@@ -12,6 +12,7 @@ window.KALENDER = {
       alt: "Ein gelb geflecktes Seepferdchen schwimmt aufrecht über sandigem Meeresboden.",
       text: "Seepferdchen sind Fische, auch wenn sie mit ihrem Pferdekopf gar nicht so aussehen. Sie schwimmen aufrecht und halten sich mit ihrem Greifschwanz an Seegras fest, damit die Strömung sie nicht wegträgt. Ihre Augen können sie unabhängig voneinander bewegen, wie ein Chamäleon.",
       rekord: "Das Zwergseepferdchen gilt als langsamster Fisch der Welt: Es schafft nur etwa 1,5 Meter in einer Stunde. Eine Gartenschnecke wäre schneller!",
+      mitmach: "Schau mit einem Auge nach links und mit dem anderen nach rechts. Klappt das? Seepferdchen können das!",
       quiz: { frage: "Wer bekommt bei den Seepferdchen die Babys – Mama oder Papa?", antwort: "Der Papa! Das Weibchen legt die Eier in eine Bruttasche am Bauch des Männchens. Nach ein paar Wochen bringt der Vater Hunderte winzige Seepferdchen zur Welt." },
     },
     {
@@ -19,6 +20,7 @@ window.KALENDER = {
       alt: "Ein Walhai mit weißen Punkten schwimmt im blauen Meer.",
       text: "Der Walhai heißt zwar so, ist aber kein Wal, sondern ein Hai – also ein Fisch. Für Menschen ist er völlig harmlos: Er frisst winziges Plankton, das er mit seinem riesigen Maul aus dem Wasser filtert. Jeder Walhai hat ein eigenes Punktemuster, an dem Forschende ihn erkennen, wie an einem Fingerabdruck.",
       rekord: "Der Walhai ist der größte Fisch der Welt. Er kann bis zu 18 Meter lang werden – so lang wie ein Gelenkbus.",
+      mitmach: "Messt draußen 18 Meter ab, mit einem Maßband oder etwa 25 großen Erwachsenenschritten. So lang kann ein Walhai werden!",
       quiz: { frage: "Wal oder Fisch: Was ist der Walhai?", antwort: "Ein Fisch! Er atmet mit Kiemen. Wale dagegen sind Säugetiere und müssen zum Atmen an die Oberfläche." },
     },
     {
@@ -26,6 +28,7 @@ window.KALENDER = {
       alt: "Vier Seeotter treiben auf dem Rücken im Wasser.",
       text: "Seeotter leben an den Küsten des nördlichen Pazifiks. Sie treiben auf dem Rücken im Wasser, und zum Schlafen wickeln sie sich in Seetang ein oder halten sich an den Pfoten fest, damit sie nicht abtreiben. Muscheln knacken sie mit einem Stein, den sie sich auf den Bauch legen – Seeotter benutzen also Werkzeug!",
       rekord: "Seeotter haben das dichteste Fell aller Tiere: bis zu 150.000 Haare auf einem einzigen Quadratzentimeter. Ein Mensch hat auf dem ganzen Kopf nur etwa 100.000 Haare!",
+      mitmach: "Knack eine Walnuss mit einem Nussknacker. Seeotter machen das mit einem Stein auf ihrem Bauch.",
       quiz: { frage: "Seeotter haben keine dicke Speckschicht wie Robben. Was hält sie im kalten Wasser warm?", antwort: "Ihr superdichtes Fell! Zwischen den Haaren bleiben Luftbläschen hängen, sodass das kalte Wasser gar nicht bis an die Haut kommt." },
     },
     {
@@ -33,6 +36,7 @@ window.KALENDER = {
       alt: "Eine große orange-gelbe Qualle mit vielen langen Tentakeln im dunklen Wasser.",
       text: "Die Gelbe Haarqualle wird auch Löwenmähnenqualle genannt, weil ihre vielen Tentakel aussehen wie eine wilde Mähne. Sie lebt in kalten Meeren, auch in Nord- und Ostsee. Quallen haben kein Gehirn, kein Herz und keine Knochen – und sie bestehen fast nur aus Wasser.",
       rekord: "Sie gehört zu den längsten Tieren der Welt: Bei einer Haarqualle, die 1870 an der Küste der USA gefunden wurde, waren die Tentakel über 36 Meter lang – länger als ein Blauwal!",
+      mitmach: "Bastle eine Qualle: ein Papierteller oder Pappbecher als Schirm, dazu viele lange Woll- oder Papierstreifen als Tentakel.",
       quiz: { frage: "Was solltest du tun, wenn du am Strand eine Haarqualle findest?", antwort: "Nicht anfassen! Ihre Tentakel brennen auf der Haut – sogar dann noch, wenn die Qualle schon an den Strand gespült wurde." },
     },
     {
@@ -40,6 +44,7 @@ window.KALENDER = {
       alt: "Zwei erwachsene Kaiserpinguine mit einem grauen, flauschigen Küken auf dem Eis.",
       text: "Kaiserpinguine leben in der Antarktis, wo es im Winter minus 40 Grad kalt wird. Damit sie nicht erfrieren, kuscheln sich Tausende ganz eng aneinander und wechseln sich ab: Wer außen friert, darf nach einer Weile in die warme Mitte. Der Papa brütet das Ei aus – über zwei Monate lang, ohne etwas zu fressen.",
       rekord: "Der Kaiserpinguin ist der größte Pinguin und der beste Taucher unter allen Vögeln: Er taucht über 500 Meter tief und kann über 20 Minuten unter Wasser bleiben.",
+      mitmach: "Watschle wie ein Pinguin durchs Zimmer – mit einem Kuscheltier auf den Füßen, ohne dass es herunterfällt.",
       quiz: { frage: "Wo hält der Papa-Pinguin das Ei warm?", antwort: "Auf seinen Füßen, zugedeckt mit einer warmen Bauchfalte. Würde das Ei aufs Eis fallen, würde es sehr schnell erfrieren." },
     },
     {
@@ -47,6 +52,7 @@ window.KALENDER = {
       alt: "Ein bunter Fangschreckenkrebs mit großen Kulleraugen auf dunklem Sand.",
       text: "Der Pfauen-Fangschreckenkrebs ist kunterbunt wie ein Pfau – aber für Schnecken und Krabben ist er gefährlich. Er hat zwei Fangarme, die er wie Hämmer nach vorne schnellen lässt. Damit knackt er selbst die härtesten Schneckenhäuser.",
       rekord: "Sein Schlag ist einer der schnellsten im ganzen Tierreich: Der Fangarm saust mit über 80 km/h nach vorne – schneller, als du blinzeln kannst. Manche Fangschreckenkrebse haben im Aquarium schon die Glasscheibe kaputt geschlagen! Außerdem haben sie die kompliziertesten Augen aller Tiere.",
+      mitmach: "Male den Fangschreckenkrebs mit allen Farben, die du findest. Er ist eines der buntesten Tiere im Meer!",
       quiz: { frage: "Deine Augen haben drei Sorten Farbsensoren (für Rot, Grün und Blau). Wie viele hat der Fangschreckenkrebs?", antwort: "Bis zu 16! Er kann sogar ultraviolettes Licht sehen, das für uns unsichtbar ist." },
     },
     {
@@ -54,6 +60,7 @@ window.KALENDER = {
       alt: "Ein grauer Delfin springt aus dem Wasser.",
       text: "Große Tümmler sind sehr schlaue Delfine. Jeder Delfin hat einen eigenen Pfiff – eine Art Namen, mit dem die anderen ihn rufen können. Beim Schlafen ruht immer nur eine Hälfte ihres Gehirns. Die andere passt auf und sorgt dafür, dass sie zum Atmen auftauchen.",
       rekord: "Delfine haben das längste Gedächtnis für Freunde, das man bei Tieren gemessen hat: Sie erkennen den Pfiff eines alten Freundes noch nach über 20 Jahren wieder!",
+      mitmach: "Erfinde einen eigenen Pfiff als „Namen“. Erkennt dich deine Familie daran, ohne dich zu sehen?",
       quiz: { frage: "Atmen Delfine mit Kiemen oder mit einer Lunge?", antwort: "Mit einer Lunge! Delfine sind Säugetiere. Sie atmen durch das Blasloch oben auf dem Kopf." },
     },
     {
@@ -61,6 +68,7 @@ window.KALENDER = {
       alt: "Alte Zeichnung eines Riesenkalmars mit langen Fangarmen.",
       text: "Der Riesenkalmar lebt in der finsteren Tiefsee und ist so geheimnisvoll, dass ihn lange niemand lebend gesehen hat. Erst 2004 gelangen Forschern aus Japan die ersten Fotos eines lebenden Riesenkalmars. Früher hielten Seeleute ihn für ein Seeungeheuer: den Kraken. Diese Zeichnung ist fast 150 Jahre alt.",
       rekord: "Der Riesenkalmar hat die größten Augen im ganzen Tierreich (zusammen mit seinem Verwandten, dem Koloss-Kalmar): Sie werden bis zu 27 Zentimeter groß – größer als ein Fußball!",
+      mitmach: "Zeichne mit einem Lineal einen Kreis, der 27 Zentimeter breit ist. So groß ist das Auge eines Riesenkalmars!",
       quiz: { frage: "Warum braucht ein Tier in der dunklen Tiefsee so riesige Augen?", antwort: "Um auch das kleinste bisschen Licht einzufangen. Forschende vermuten: So sieht er rechtzeitig das Leuchten im Wasser, wenn sich sein größter Feind nähert – der Pottwal." },
     },
     {
@@ -68,6 +76,7 @@ window.KALENDER = {
       alt: "Eine große, dunkle Lederschildkröte kriecht über einen Sandstrand.",
       text: "Die Lederschildkröte hat keinen harten Panzer, sondern eine dicke, ledrige Haut über ihren Knochen – daher ihr Name. Sie frisst fast nur Quallen und schwimmt dafür durch alle Ozeane der Welt. Zum Eierlegen kommt das Weibchen nachts an den Strand.",
       rekord: "Sie ist die größte Schildkröte der Welt: bis 2 Meter lang und oft über 500 Kilogramm schwer, die schwerste wog sogar 916 kg. Und sie taucht über 1.000 Meter tief – tiefer als jedes andere Reptil.",
+      mitmach: "Sammle beim nächsten Spaziergang ein paar Stücke Plastikmüll auf (mit Handschuhen). So landet weniger Plastik im Meer.",
       quiz: { frage: "Warum ist Plastik im Meer für Lederschildkröten besonders gefährlich?", antwort: "Eine Plastiktüte im Wasser sieht aus wie eine Qualle – ihr Lieblingsessen. Die Schildkröte frisst sie aus Versehen und wird krank." },
     },
     {
@@ -75,6 +84,7 @@ window.KALENDER = {
       alt: "Eine dunkle, glänzende Muschelschale mit feinen Ringen.",
       text: "Die Islandmuschel sieht ziemlich unscheinbar aus. Sie lebt eingegraben im Meeresboden des Nordatlantiks, auch in Nord- und Ostsee. Ihre Schale wächst jedes Jahr ein Stück weiter und bekommt dabei einen neuen Ring – ähnlich wie die Jahresringe eines Baumes.",
       rekord: "Eine Islandmuschel, die Forschende „Ming“ nannten, ist das älteste einzelne Tier, das man je gefunden hat: Sie wurde 507 Jahre alt! Sie wuchs schon im Jahr 1499 – nur wenige Jahre nachdem Kolumbus Amerika erreicht hatte.",
+      mitmach: "Such dir eine Muschel, einen Baumstumpf oder eine Holzscheibe und zähl die Ringe. Wie alt könnte sie sein?",
       quiz: { frage: "Wie haben Forschende herausgefunden, wie alt Ming war?", antwort: "Sie haben die Wachstumsringe auf der Schale gezählt – wie bei einem Baumstamm." },
     },
     {
@@ -82,6 +92,7 @@ window.KALENDER = {
       alt: "Ein silberblauer Fächerfisch mit langem Schwert und aufgestellter, segelartiger Rückenflosse.",
       text: "Der Fächerfisch hat eine riesige Rückenflosse, die er wie ein Segel aufstellen kann. Beim Jagen umkreisen mehrere Fächerfische einen Schwarm kleiner Fische, treiben ihn zusammen und schlagen dann mit ihrem spitzen Schwert zu. Dabei können sie sogar ihre Farbe ändern.",
       rekord: "Der Fächerfisch gilt als schnellster Fisch der Welt. In vielen Büchern steht, dass er 110 km/h schafft. Neuere Messungen zeigen aber, dass er wahrscheinlich langsamer ist. Wie schnell genau, untersuchen Forschende noch – auch Rekorde müssen überprüft werden!",
+      mitmach: "Falte aus Papier einen Fächer und stell ihn auf – so wie der Fächerfisch sein Segel.",
       quiz: { frage: "Wozu benutzt der Fächerfisch sein „Segel“?", antwort: "Er stellt es auf, um größer zu wirken und den Fischschwarm zusammenzutreiben. Beim schnellen Schwimmen legt er es flach an den Körper." },
     },
     {
@@ -89,6 +100,7 @@ window.KALENDER = {
       alt: "Ein großer, rötlich-brauner Krake auf einem Felsen am Meeresgrund.",
       text: "Kraken sind echte Zauberkünstler: Sie können in Sekunden Farbe und Muster ändern und sich durch winzige Löcher quetschen, denn sie haben keine Knochen. Sie haben blaues Blut. Und sie sind so schlau, dass sie Schraubgläser öffnen können.",
       rekord: "Der Pazifische Riesenkrake ist der größte Krake der Welt: Mit ausgestreckten Armen kann er über 4 Meter breit sein, und manche wiegen über 50 Kilogramm.",
+      mitmach: "Öffne ein Schraubglas mit geschlossenen Augen. Ein Krake schafft das mit seinen Saugnäpfen!",
       quiz: { frage: "Wie viele Herzen hat ein Krake?", antwort: "Drei! Zwei pumpen das Blut durch die Kiemen, das dritte durch den restlichen Körper." },
     },
     {
@@ -96,6 +108,7 @@ window.KALENDER = {
       alt: "Eine weiße Seeschwalbe mit schwarzer Kappe und rotem Schnabel breitet die Flügel aus.",
       text: "Die Küstenseeschwalbe ist ein schlanker Seevogel mit rotem Schnabel. Sie brütet im Sommer im hohen Norden, zum Beispiel in Island und Grönland, aber auch an der deutschen Nord- und Ostseeküste. Wird es dort Herbst, fliegt sie bis in die Antarktis, wo dann Sommer ist.",
       rekord: "Sie hat die längste Wanderung aller Tiere: Jedes Jahr fliegt sie 70.000 bis 90.000 Kilometer – mehr als zweimal um die ganze Erde! In ihrem Leben fliegt sie so weit wie dreimal zum Mond und zurück.",
+      mitmach: "Finde auf einem Globus oder einer Weltkarte Grönland und die Antarktis und fahr den Weg der Küstenseeschwalbe mit dem Finger nach.",
       quiz: { frage: "Was hat die Küstenseeschwalbe davon, dass sie so weit fliegt?", antwort: "Sie erlebt zweimal im Jahr Sommer – im Norden und im Süden. So sieht sie mehr Tageslicht als jedes andere Tier." },
     },
     {
@@ -103,6 +116,7 @@ window.KALENDER = {
       alt: "Ein grauer Grönlandhai schwimmt dicht über dem Meeresboden in der Tiefe.",
       text: "Der Grönlandhai lebt im eiskalten Wasser der Arktis, oft in großer Tiefe. Er ist sehr langsam – er schwimmt gemütlicher, als ein Mensch spazieren geht – und wächst nur etwa einen Zentimeter pro Jahr.",
       rekord: "Kein anderes Wirbeltier lebt so lange: Grönlandhaie werden mindestens 270 Jahre alt, vielleicht sogar fast 400! Manche Haie, die heute schwimmen, waren schon auf der Welt, als es noch keine Eisenbahn gab.",
+      mitmach: "Wer ist der älteste Mensch in deiner Familie? Rechne aus, wie oft sein Alter in 400 Jahre passt.",
       quiz: { frage: "Wie haben Forschende das Alter der Haie bestimmt?", antwort: "Mit einem Trick: Sie haben die Augenlinse untersucht. Deren innerster Teil entsteht schon vor der Geburt und verändert sich danach nie mehr." },
     },
     {
@@ -110,6 +124,7 @@ window.KALENDER = {
       alt: "Ein großer, flacher, fast runder Fisch mit langer Rückenflosse im blauen Wasser.",
       text: "Der Mondfisch sieht aus, als hätte jemand sein Hinterteil vergessen: Er ist fast rund und flach wie ein Teller und hat oben und unten je eine lange Flosse. Gern legt er sich an der Wasseroberfläche auf die Seite und sonnt sich. Dabei picken ihm manchmal Seevögel lästige Parasiten von der Haut.",
       rekord: "Mondfische sind die schwersten Knochenfische der Welt – der schwerste wog 2.744 Kilogramm, so viel wie zwei Autos. Außerdem legt ein Weibchen bis zu 300 Millionen Eier, mehr als jedes andere Wirbeltier.",
+      mitmach: "Male einen Mondfisch auf einen Pappteller – er ist fast so rund wie der Teller.",
       quiz: { frage: "Was frisst der Mondfisch am liebsten?", antwort: "Quallen! Davon muss er sehr viele fressen, denn Quallen bestehen fast nur aus Wasser." },
     },
     {
@@ -118,6 +133,7 @@ window.KALENDER = {
       text: "Das Great Barrier Reef liegt vor der Küste Australiens. Es besteht aus Tausenden einzelnen Riffen, gebaut von winzigen Tieren: den Korallenpolypen. Sie bauen sich Skelette aus Kalk, und über Tausende von Jahren wächst daraus ein riesiges Unterwassergebirge. Dort leben Fische in allen Farben, Schildkröten, Haie und Seesterne.",
       rekordTitel: "🏆 Rekord",
       rekord: "Es ist das größte Bauwerk, das Lebewesen je geschaffen haben: rund 2.300 Kilometer lang. Man kann es sogar aus dem Weltall sehen – dieses Bild hat ein Satellit der NASA aufgenommen.",
+      mitmach: "Bau ein Korallenriff aus Bausteinen, Steinen oder Knete und setz bunte Fische aus Papier hinein.",
       quiz: { frage: "Sind Korallen Pflanzen, Steine oder Tiere?", antwort: "Tiere! Winzige Polypen, verwandt mit den Quallen. In ihnen wohnen kleine Algen, die ihnen Nahrung liefern und sie bunt machen." },
     },
     {
@@ -125,6 +141,7 @@ window.KALENDER = {
       alt: "Zwei schwarz-weiße Orcas springen aus dem Wasser.",
       text: "Der Orca wird auch Schwertwal genannt. Orcas leben in Familien, die von der ältesten Orca-Oma angeführt werden. Jede Gruppe hat ihre eigene „Sprache“ aus Pfiffen und Klicks und ihre eigenen Jagdtricks: Manche jagen Fische, andere Robben.",
       rekord: "Der Orca ist der größte Delfin der Welt (bis zu 9 Meter lang) und eines der schnellsten Meeressäugetiere: Er schafft über 50 km/h.",
+      mitmach: "Orca-Familien haben ihre eigene „Sprache“. Gibt es Wörter, die nur in eurer Familie benutzt werden?",
       quiz: { frage: "Ist der Orca ein Wal oder ein Delfin?", antwort: "Beides! Delfine gehören zu den Zahnwalen – und der Orca ist der größte von allen Delfinen." },
     },
     {
@@ -133,6 +150,7 @@ window.KALENDER = {
       text: "In der Tiefsee ist es stockdunkel. Der Tiefsee-Anglerfisch hat dafür einen Trick: An einer „Angel“ auf seinem Kopf hängt ein leuchtender Köder. Kleine Fische halten ihn für etwas zu fressen – und schwupps, sind sie im riesigen Maul verschwunden. Das Licht machen winzige Bakterien, die im Köder wohnen.",
       rekordTitel: "🏆 Rekord",
       rekord: "Bei manchen Anglerfischen sind die Männchen winzig und wachsen am Weibchen fest. Das Männchen einer Art ist nur gut 6 Millimeter lang – damit gehört es zu den kleinsten Wirbeltieren der Welt.",
+      mitmach: "Mach das Licht aus und lock jemanden mit einer Taschenlampe an – wie ein Anglerfisch in der Tiefsee.",
       quiz: { frage: "Ab welcher Tiefe kommt im Meer kein Sonnenlicht mehr an?", antwort: "Ab etwa 1.000 Metern. Darunter ist es immer Nacht und eiskalt. Diese Zeichnung stammt von der deutschen Tiefsee-Expedition mit dem Schiff „Valdivia“ (1898–1899)." },
     },
     {
@@ -140,6 +158,7 @@ window.KALENDER = {
       alt: "Ein großer weißer Albatros mit dunklen Flügeln schwimmt auf dem Meer.",
       text: "Der Wanderalbatros verbringt fast sein ganzes Leben über dem offenen Meer rund um die Antarktis. Er segelt stundenlang im Wind, ohne ein einziges Mal mit den Flügeln zu schlagen. An Land kommt er nur zum Brüten – und das Paar bleibt ein Leben lang zusammen.",
       rekord: "Der Wanderalbatros hat die größte Flügelspannweite aller Vögel: bis zu 3,5 Meter. So breit sind zwei Erwachsene, die sich an den Händen halten und die Arme ausstrecken!",
+      mitmach: "Miss deine Armspanne von Fingerspitze zu Fingerspitze. Wie viele Kinder wie du braucht man für die 3,5 Meter eines Albatros?",
       quiz: { frage: "Wie kann der Albatros fliegen, ohne mit den Flügeln zu schlagen?", antwort: "Er nutzt den Wind: Er gleitet im Zickzack zwischen dem schnellen Wind weiter oben und dem langsameren Wind direkt über den Wellen hin und her und holt sich so immer neuen Schwung." },
     },
     {
@@ -147,6 +166,7 @@ window.KALENDER = {
       alt: "Eine große, geöffnete Muschel mit welligem Rand auf hellem Sand, bewachsen mit Korallen.",
       text: "Die Riesenmuschel lebt in Korallenriffen im Indischen und Pazifischen Ozean. Wenn sie sich öffnet, schimmert ihr Mantel in Blau, Grün oder Gold. Die Farben kommen von winzigen Algen, die in ihr leben und mit Sonnenlicht Nahrung für sie herstellen – die Muschel hat sozusagen einen eigenen Garten!",
       rekord: "Sie ist die größte Muschel der Welt: über 1 Meter breit und mehr als 200 Kilogramm schwer – so schwer wie drei Erwachsene. Sie kann über 100 Jahre alt werden.",
+      mitmach: "Wie viel wiegst du? Rechne aus, wie viele Kinder zusammen so schwer sind wie eine 200 Kilogramm schwere Riesenmuschel.",
       quiz: { frage: "Stimmt es, dass Riesenmuscheln Taucher festhalten?", antwort: "Nein, das ist ein Märchen! Die Muschel schließt sich viel zu langsam, und große Riesenmuscheln können ihre Schale gar nicht ganz schließen." },
     },
     {
@@ -154,6 +174,7 @@ window.KALENDER = {
       alt: "Zwei graue Wale tauchen an der Meeresoberfläche auf.",
       text: "Den Cuvier-Schnabelwal bekommt man nur selten zu sehen, weil er die meiste Zeit tief unter Wasser verbringt. Er jagt Tintenfische in der Tiefsee und findet sie im Dunkeln mit Echoortung: Er sendet Klicklaute aus und horcht auf das Echo.",
       rekord: "Er ist der Tauch-Weltmeister unter den Säugetieren: Ein Cuvier-Schnabelwal tauchte fast 3.000 Meter tief, ein anderer blieb 3 Stunden und 42 Minuten unter Wasser – mit einem einzigen Atemzug!",
+      mitmach: "Wie viele Lieder hörst du in 3 Stunden und 42 Minuten, wenn ein Lied etwa 3 Minuten dauert? So lange tauchte der Schnabelwal!",
       quiz: { frage: "Wie hält ein Wal so lange ohne Atmen durch?", antwort: "Seine Muskeln speichern sehr viel Sauerstoff, und beim Tauchen schaltet sein Körper auf Sparflamme: Das Herz schlägt dann ganz langsam." },
     },
     {
@@ -161,6 +182,7 @@ window.KALENDER = {
       alt: "Eine Pottwal-Mutter und ihr Junges schwimmen im blauen Meer.",
       text: "Der Pottwal hat einen riesigen, kantigen Kopf – fast ein Drittel seines Körpers. Er taucht bis zu 2.000 Meter tief, um Kalmare zu jagen. Pottwale schlafen senkrecht im Wasser, wie riesige Baumstämme, die im Meer stehen.",
       rekord: "Der Pottwal hat das größte Gehirn aller Tiere: Es wiegt rund 8 Kilogramm, etwa sechsmal so viel wie deins. Und er ist das lauteste Tier der Welt: Seine Klicklaute sind lauter als ein startendes Düsenflugzeug.",
+      mitmach: "Pottwale verständigen sich mit Klicklauten. Wer kann mit der Zunge den lautesten Klick machen?",
       quiz: { frage: "Welches Tier aus diesem Kalender steht auf dem Speiseplan des Pottwals?", antwort: "Der Riesenkalmar von Türchen 8! Pottwale haben manchmal Narben von seinen Saugnäpfen." },
     },
     {
@@ -168,6 +190,7 @@ window.KALENDER = {
       alt: "Eine Buckelwal-Mutter schwimmt mit ihrem Kalb im blauen Wasser.",
       text: "Buckelwale sind die Sänger des Meeres. Die Männchen singen lange Lieder aus Brummen, Quietschen und Pfeifen, die stundenlang dauern können. Alle Männchen einer Gegend singen dasselbe Lied, und das Lied verändert sich von Jahr zu Jahr – wie ein Hit, der sich verbreitet.",
       rekord: "Buckelwale haben die längsten Brustflossen aller Tiere: bis zu 5 Meter – fast ein Drittel ihrer Körperlänge. Ihr wissenschaftlicher Name Megaptera bedeutet „Großflügler“.",
+      mitmach: "Denk dir ein Walgesang-Lied aus Brummen, Quietschen und Pfeifen aus und sing es deiner Familie vor.",
       quiz: { frage: "Auf dem Bild schwimmt eine Buckelwal-Mama mit ihrem Kalb. Was trinkt das Walbaby?", antwort: "Milch von seiner Mutter – Wale sind Säugetiere! Die Walmilch ist sehr fett, damit das Kalb schnell wächst." },
     },
     {
@@ -175,6 +198,7 @@ window.KALENDER = {
       alt: "Ein langer, blaugrauer Wal schwimmt dicht unter der Wasseroberfläche, von oben fotografiert.",
       text: "Frohe Weihnachten! Hinter dem letzten Türchen wartet das größte Tier, das je auf der Erde gelebt hat – schwerer als jeder Dinosaurier. Und trotzdem frisst der Blauwal fast nur winzige Krill-Krebse: bis zu 4 Tonnen am Tag.",
       rekord: "Der Blauwal wird bis zu 30 Meter lang und kann über 150 Tonnen wiegen – so viel wie etwa 30 Elefanten. Allein sein Herz wiegt rund 180 Kilogramm und ist so groß wie ein Autoscooter.",
+      mitmach: "Messt draußen 30 Meter ab, das sind ungefähr 40 große Erwachsenenschritte. So lang ist ein Blauwal – frohe Weihnachten!",
       quiz: { frage: "Wie weit kann man den Ruf eines Blauwals unter Wasser hören?", antwort: "Hunderte Kilometer weit! Seine tiefen Rufe gehören zu den lautesten Tierlauten überhaupt." },
     },
   ],
